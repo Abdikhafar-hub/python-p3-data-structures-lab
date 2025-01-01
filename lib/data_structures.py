@@ -10,7 +10,7 @@ spicy_foods = [
         "heat_level": 3,
     },
     {
-        "name": "Mapo Tofu",
+        "name": " Tofu",
         "cuisine": "Sichuan",
         "heat_level": 6,
     },
