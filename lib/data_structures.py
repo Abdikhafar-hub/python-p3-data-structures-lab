@@ -5,7 +5,7 @@ spicy_foods = [
         "heat_level": 9,
     },
     {
-        "name": "Buffalo Wings",
+        "name": " Wings",
         "cuisine": "American",
         "heat_level": 3,
     },
